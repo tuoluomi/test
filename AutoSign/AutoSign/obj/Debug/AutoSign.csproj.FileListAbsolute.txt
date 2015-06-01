@@ -1,0 +1,5 @@
+c:\users\v-jimi\documents\visual studio 2012\Projects\AutoSign\AutoSign\bin\Debug\AutoSign.dll
+c:\users\v-jimi\documents\visual studio 2012\Projects\AutoSign\AutoSign\bin\Debug\AutoSign.pdb
+c:\users\v-jimi\documents\visual studio 2012\Projects\AutoSign\AutoSign\obj\Debug\AutoSign.csprojResolveAssemblyReference.cache
+c:\users\v-jimi\documents\visual studio 2012\Projects\AutoSign\AutoSign\obj\Debug\AutoSign.dll
+c:\users\v-jimi\documents\visual studio 2012\Projects\AutoSign\AutoSign\obj\Debug\AutoSign.pdb
